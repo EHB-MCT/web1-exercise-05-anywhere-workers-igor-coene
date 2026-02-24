@@ -1,0 +1,41 @@
+body {
+  background-color: #0f1a26;
+  margin: 50px;
+  font-family: karla, sans-serif;
+
+  background-image: url(Images/anywhere-workers.gif);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 700px;
+}
+h1 {
+  font-size: 120px;
+  color: #fff;
+  line-height: 130px;
+  margin-bottom: 50px;
+  font-family: Spectral, serif;
+}
+p {
+  font-size: 20px;
+  color: #c3d0df;
+  width: 50%;
+  margin-bottom: 40px;
+}
+.read-more {
+  color: #f33;
+  margin-bottom: 80px;
+  text-transform: uppercase;
+  font-size: 16px;
+  letter-spacing: 3px;
+}
+a {
+  background-color: #f33;
+  padding: 20px 30px;
+  border-radius: 30px;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
